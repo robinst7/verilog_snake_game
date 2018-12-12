@@ -1,0 +1,6 @@
+Warning (10268): Verilog HDL information at apple.v(30): always construct contains both blocking and non-blocking assignments File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/apple.v Line: 30
+Warning (10268): Verilog HDL information at snake_body.v(19): always construct contains both blocking and non-blocking assignments File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/output_files/snake_body.v Line: 19
+Warning (10268): Verilog HDL information at snake_body.v(93): always construct contains both blocking and non-blocking assignments File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/output_files/snake_body.v Line: 93
+Warning (10273): Verilog HDL warning at collision.v(51): extended using "x" or "z" File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/output_files/collision.v Line: 51
+Warning (10268): Verilog HDL information at collision.v(57): always construct contains both blocking and non-blocking assignments File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/output_files/collision.v Line: 57
+Warning (10268): Verilog HDL information at collision.v(71): always construct contains both blocking and non-blocking assignments File: M:/287/snake game 2.0/snake-game-FPGA-Verilog-master/output_files/collision.v Line: 71
